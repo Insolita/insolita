@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 
+You can contact me at https://twitter.com/DonnaInsolita
+
+**My artcles:**
+
+https://dev.to/insolita (Eng)
+
+https://medium.com/@DonnaInsolita  (Russian in most)
 
 <!--
 **Insolita/insolita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
